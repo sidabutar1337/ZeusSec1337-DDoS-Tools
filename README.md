@@ -28,7 +28,7 @@ pip install -r requirements.txt
 python ZEUSS-DDOS.py
 ```
 
-### **2. Instalasi di Linux (Debian/Ubuntu)**
+### **2. Instalasi di Linux (Debian/Ubuntu/Kali-Linux)**
 
 ```bash
 sudo apt update && sudo apt upgrade -y
